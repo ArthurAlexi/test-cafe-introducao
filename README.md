@@ -26,7 +26,7 @@
 * [Exemplos de Uso](#ExemplosDeUso)
 
 <a id="FrameWork"></a>
-# FrameWork
+# FrameWork [TestCafe](https://testcafe.io/)
 
 <a id="Descricao"></a>
 ## Descrição
@@ -39,6 +39,8 @@ Você pode usar TestCafe para simular cenários comuns de usuário nos principai
 ## Criador
 
 ![DevExpress-Logo-Small-Color](https://github.com/ArthurAlexi/test-cafe-introducao/assets/90854173/5d9893f8-41a1-4df3-a279-d002e083416b)
+
+-https://www.devexpress.com/
 
 <a id="PrincipaisFuncionalidades"></a>
 ## Principais Funcionalidades
