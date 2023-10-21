@@ -225,7 +225,7 @@ test('My first test', async t => {
 ### 5. Encadeie múltiplas ações
 
 ```javascript  
-fixture('Getting Started')
+fixture('My first test')
     .page('https://devexpress.github.io/testcafe/example');
 
 test('My first test', async t => {
@@ -248,7 +248,7 @@ e a adicione no seu teste:
 ```javascript  
 import { Selector } from 'testcafe';
 
-fixture('Getting Started')
+fixture('My first test')
     .page('https://devexpress.github.io/testcafe/example');
 
 test('My first test', async t => {
@@ -270,7 +270,7 @@ Em caso de Sucesso
 
 ![image](https://github.com/ArthurAlexi/test-cafe-introducao/assets/90854173/10f0095c-d7fb-4934-9311-d91faa2d8ae1)
 
-!! Em caso de erro
+Em caso de erro
 
 ![image](https://github.com/ArthurAlexi/test-cafe-introducao/assets/90854173/2c874ddd-aff5-4565-9345-3726bb319526)
 
