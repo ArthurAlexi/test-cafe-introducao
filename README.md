@@ -111,19 +111,16 @@ Emule respostas HTTP para alimentar dados de amostra em seu aplicativo, solucion
 ### 4. Injeções do lado do cliente
 Execute código personalizado do lado do cliente para analisar a página da web, examinar seu estado ou até mesmo adicionar dependências extras.
 
-### 5. Injeções do lado do cliente
-Execute código personalizado do lado do cliente para analisar a página da web, examinar seu estado ou até mesmo adicionar dependências extras.
-
-### 6. Testes simultâneos
+### 5. Testes simultâneos
 Execute seus testes em vários navegadores ao mesmo tempo para descobrir rapidamente erros específicos do navegador.
 
-### 7. Teste de API
+### 6. Teste de API
 TestCafe inclui um conjunto abrangente de ferramentas de teste de API do lado do servidor. Você pode adicionar testes de API dedicados ao seu conjunto de testes ou incluir métodos de teste de API em testes funcionais existentes.
 
-### 8. Gratuito e de código aberto
+### 7. Gratuito e de código aberto
 TestCafe é distribuído gratuitamente sob a licença do MIT.
 
-### 9. Estúdio TestCafe
+### 8. Estúdio TestCafe
 A GUI e o gravador de teste integrados ao TestCafe Studio tornam nosso produto acessível a pessoas com zero experiência em programação.
 <a id="Desvantagens"></a>
 
