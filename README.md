@@ -165,7 +165,7 @@ O TestCafe é uma ferramenta de automação de testes recomendada para testar ap
 <a id="TiposDeTeste"></a>
 ## Tipos de Teste
 
-o TestCafe é principalmente associado à categoria "Tipo de Teste", pois é uma ferramenta que se concentra na automação de testes de funcionalidade e interação do usuário em aplicativos da web. No entanto, sua versatilidade permite que ele seja usado em vários níveis de teste, dependendo das necessidades específicas de um projeto.
+o TestCafe é principalmente associado à categoria "Teste Funcional", pois é uma ferramenta que se concentra na automação de testes de funcionalidade e interação do usuário em aplicativos da web. No entanto, sua versatilidade permite que ele seja usado em vários níveis de teste, dependendo das necessidades específicas de um projeto.
 
 <a id="NiveisDeTeste"></a>
 ## Níveis de Teste
