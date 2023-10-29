@@ -1,0 +1,19 @@
+{
+  "name": "Demo TestCafe",
+  "version": "1.0.0",
+  "description": "Demo do framework TestCafe",
+  "main": "demo.js",
+  "scripts": {
+    "test": "testcafe chrome demo.js"
+  },
+  "keywords": [
+    "testCafe",
+    "E2E",
+    "automated tests"
+  ],
+  "author": "Arthur Alexi",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^3.3.0"
+  }
+}
